@@ -1,0 +1,951 @@
+City,State,PM2.5,PM10,NO2,SO2,CO,O3,AQI,Date
+Mumbai,Maharashtra,149.01,,,14.98,,,348,2024-04-06
+Mumbai,Maharashtra,error,error,109.01,,,,145,2024-08-04
+Mumbai,Maharashtra,163.69,389.3,118.73,error,,42.97,269,2024-08-13
+Mumbai,Maharashtra,error,216.58,7.29,,,32.61,error,2024-10-27
+Mumbai,Maharashtra,,error,39.72,error,2.7,,237,2024-07-07
+Mumbai,Maharashtra,219.56,,,,6.7,,274,2024-07-12
+Mumbai,Maharashtra,,error,109.98,73.2,error,,104,2024-05-26
+Mumbai,Maharashtra,error,,55.94,,,error,,2024-03-23
+Mumbai,Maharashtra,,error,,error,0.79,112.27,error,2024-09-17
+Mumbai,Maharashtra,error,error,97.79,,,5.6,360,2024-10-27
+Delhi,Delhi,,,error,59.54,error,error,408,2024-02-15
+Delhi,Delhi,71.97,,error,error,,,,2024-08-19
+Delhi,Delhi,285.53,313.11,60.9,,3.16,error,,2024-03-26
+Delhi,Delhi,,error,,error,error,error,error,2024-08-14
+Delhi,Delhi,177.93,,error,74.85,8.53,64.24,486,2024-05-22
+Delhi,Delhi,202.71,,error,error,1.83,,error,2024-01-27
+Delhi,Delhi,error,168.96,144.82,45.63,error,38.28,error,2024-04-27
+Delhi,Delhi,188.52,error,74.16,27.56,,,error,2024-04-05
+Delhi,Delhi,error,,,error,,,414,2024-01-20
+Delhi,Delhi,,error,error,77.55,1.67,89.75,error,2024-07-05
+Bangalore,Karnataka,error,error,error,,,96.34,,2024-03-08
+Bangalore,Karnataka,169.41,211.3,105.57,24.53,0.82,error,error,2024-09-19
+Bangalore,Karnataka,59.31,,128.17,65.88,error,,412,2024-02-28
+Bangalore,Karnataka,,47.43,,74.95,,109.9,,2024-02-10
+Bangalore,Karnataka,error,error,80.28,,,error,,2024-08-17
+Bangalore,Karnataka,127.61,error,error,,error,error,346,2024-02-21
+Bangalore,Karnataka,,error,,15.97,4.62,12.26,error,2024-03-24
+Bangalore,Karnataka,error,,,,9.94,7.12,error,2024-02-20
+Bangalore,Karnataka,,error,87.11,error,error,,error,2024-03-28
+Bangalore,Karnataka,,271.27,,,,44.14,,2024-11-09
+Hyderabad,Telangana,error,48.78,error,9.21,error,77.41,189,2024-12-09
+Hyderabad,Telangana,error,,error,31.92,6.9,error,,2024-10-24
+Hyderabad,Telangana,176.75,error,138.15,error,,error,322,2024-02-22
+Hyderabad,Telangana,error,225.28,error,49.3,4.61,error,error,2024-12-27
+Hyderabad,Telangana,error,error,74.89,,,,140,2024-04-24
+Hyderabad,Telangana,,error,29.31,error,error,117.48,,2024-12-09
+Hyderabad,Telangana,,,error,,,error,,2024-11-09
+Hyderabad,Telangana,,error,106.13,64.35,9.65,error,,2024-04-17
+Hyderabad,Telangana,,error,,,error,error,,2024-01-25
+Hyderabad,Telangana,,123.13,64.93,29.85,1.06,,error,2024-02-22
+Ahmedabad,Gujarat,24.98,,error,,0.21,error,error,2024-10-27
+Ahmedabad,Gujarat,,error,,,1.65,,316,2024-03-22
+Ahmedabad,Gujarat,error,error,,error,1.85,error,311,2024-10-25
+Ahmedabad,Gujarat,134.94,,error,18.57,1.73,70.8,51,2024-12-06
+Ahmedabad,Gujarat,error,error,,error,0.67,error,error,2024-06-27
+Ahmedabad,Gujarat,103.92,error,error,,7.97,,,2024-05-18
+Ahmedabad,Gujarat,,error,,,1.41,40.13,,2024-06-15
+Ahmedabad,Gujarat,,141.81,error,error,error,,457,2024-09-26
+Ahmedabad,Gujarat,error,,,,4.61,117.91,,2024-03-16
+Ahmedabad,Gujarat,,168.18,,,error,error,340,2024-10-03
+Chennai,Tamil Nadu,error,,44.28,22.36,5.65,error,,2024-05-10
+Chennai,Tamil Nadu,287.5,108.06,error,error,,,,2024-02-26
+Chennai,Tamil Nadu,222.03,,error,error,,,error,2024-08-05
+Chennai,Tamil Nadu,186.93,error,,error,5.75,error,error,2024-10-22
+Chennai,Tamil Nadu,,,139.36,68.35,8.94,38.24,456,2024-08-15
+Chennai,Tamil Nadu,54.26,26.34,,47.35,,,error,2024-06-09
+Chennai,Tamil Nadu,,255.46,,13.35,error,error,error,2024-03-04
+Chennai,Tamil Nadu,,,43.4,error,2.69,42.58,error,2024-09-01
+Chennai,Tamil Nadu,260.13,98.37,,16.97,error,,,2024-07-10
+Chennai,Tamil Nadu,131.65,,error,error,1.99,error,error,2024-05-04
+Kolkata,West Bengal,,error,error,,error,14.17,374,2024-10-08
+Kolkata,West Bengal,error,,error,error,error,103.93,,2024-04-16
+Kolkata,West Bengal,196.76,error,106.95,,error,,,2024-03-28
+Kolkata,West Bengal,,error,44.98,error,,error,163,2024-09-14
+Kolkata,West Bengal,29.06,,80.67,74.78,6.02,,,2024-10-21
+Kolkata,West Bengal,,error,10.05,error,error,error,error,2024-12-16
+Kolkata,West Bengal,,,error,,error,,error,2024-08-15
+Kolkata,West Bengal,error,338.96,,error,,error,393,2024-12-17
+Kolkata,West Bengal,error,369.65,34.94,,,115.63,464,2024-06-06
+Kolkata,West Bengal,error,167.29,error,,,,437,2024-10-07
+Pune,Maharashtra,180.37,131.96,error,,error,,error,2024-09-10
+Pune,Maharashtra,,error,error,,error,,,2024-11-16
+Pune,Maharashtra,,228.44,,error,5.95,,456,2024-11-03
+Pune,Maharashtra,29.29,,,error,error,,error,2024-01-05
+Pune,Maharashtra,95.93,120.87,58.3,error,error,error,,2024-01-16
+Pune,Maharashtra,error,,,error,,error,error,2024-04-12
+Pune,Maharashtra,error,error,,21.41,error,error,,2024-05-26
+Pune,Maharashtra,204.18,93.75,10.0,,error,,,2024-12-22
+Pune,Maharashtra,error,,error,,,11.8,434,2024-12-20
+Pune,Maharashtra,,179.72,,error,,,462,2024-11-28
+Jaipur,Rajasthan,error,282.11,79.21,error,3.77,error,error,2024-10-05
+Jaipur,Rajasthan,error,302.9,error,24.75,error,81.09,,2024-08-14
+Jaipur,Rajasthan,96.2,error,,error,,error,,2024-03-23
+Jaipur,Rajasthan,241.7,187.63,45.4,,,,error,2024-01-12
+Jaipur,Rajasthan,error,338.05,error,,error,error,error,2024-08-07
+Jaipur,Rajasthan,error,149.22,error,error,1.81,error,370,2024-10-18
+Jaipur,Rajasthan,error,,68.2,,error,,,2024-05-25
+Jaipur,Rajasthan,,error,,error,3.56,38.38,,2024-01-17
+Jaipur,Rajasthan,178.09,error,,40.93,error,52.3,error,2024-03-20
+Jaipur,Rajasthan,140.82,error,16.55,,,60.32,,2024-09-08
+Lucknow,Uttar Pradesh,,,,56.71,,,421,2024-10-01
+Lucknow,Uttar Pradesh,,,,37.09,error,error,,2024-11-10
+Lucknow,Uttar Pradesh,error,42.3,131.52,10.05,9.88,,109,2024-09-07
+Lucknow,Uttar Pradesh,,,,error,7.56,error,,2024-04-18
+Lucknow,Uttar Pradesh,,329.0,error,,8.85,error,,2024-03-14
+Lucknow,Uttar Pradesh,,,56.13,error,8.67,,error,2024-02-08
+Lucknow,Uttar Pradesh,error,,,,6.09,,366,2024-06-10
+Lucknow,Uttar Pradesh,,error,,error,error,30.49,235,2024-10-26
+Lucknow,Uttar Pradesh,error,164.14,error,error,error,error,error,2024-09-21
+Lucknow,Uttar Pradesh,,,error,error,1.08,,,2024-07-28
+Kanpur,Uttar Pradesh,109.29,,70.1,31.32,,error,error,2024-03-13
+Kanpur,Uttar Pradesh,188.56,error,,error,5.51,67.09,,2024-05-05
+Kanpur,Uttar Pradesh,,,,,5.94,,,2024-07-15
+Kanpur,Uttar Pradesh,error,,69.49,36.13,,,error,2024-04-11
+Kanpur,Uttar Pradesh,230.06,error,error,76.34,,error,error,2024-07-20
+Kanpur,Uttar Pradesh,157.85,,,73.13,error,error,error,2024-02-03
+Kanpur,Uttar Pradesh,error,,122.26,70.71,3.44,9.76,134,2024-07-13
+Kanpur,Uttar Pradesh,error,,,,7.49,,,2024-11-28
+Kanpur,Uttar Pradesh,,103.69,error,,error,,,2024-01-05
+Kanpur,Uttar Pradesh,223.4,error,error,error,,,error,2024-04-01
+Nagpur,Maharashtra,221.74,131.53,93.11,error,error,error,295,2024-02-27
+Nagpur,Maharashtra,,,error,error,6.59,,error,2024-12-06
+Nagpur,Maharashtra,error,,error,,6.87,82.33,243,2024-03-23
+Nagpur,Maharashtra,,error,18.08,3.99,3.36,error,error,2024-09-05
+Nagpur,Maharashtra,93.55,,,error,error,,,2024-03-09
+Nagpur,Maharashtra,error,190.94,error,73.99,error,,error,2024-04-23
+Nagpur,Maharashtra,50.45,error,error,error,,17.23,188,2024-05-26
+Nagpur,Maharashtra,error,144.69,,23.19,,104.91,,2024-03-06
+Nagpur,Maharashtra,,265.68,24.32,error,,,100,2024-11-20
+Nagpur,Maharashtra,,159.02,,,9.41,84.04,,2024-03-25
+Indore,Madhya Pradesh,error,error,error,15.45,,106.32,424,2024-03-16
+Indore,Madhya Pradesh,,,,error,error,error,172,2024-10-14
+Indore,Madhya Pradesh,,95.0,,,error,error,361,2024-02-14
+Indore,Madhya Pradesh,error,,95.21,56.58,6.95,error,,2024-04-22
+Indore,Madhya Pradesh,error,,121.16,6.6,,,error,2024-07-07
+Indore,Madhya Pradesh,225.41,error,,,,48.08,,2024-09-19
+Indore,Madhya Pradesh,,error,error,error,error,error,,2024-07-25
+Indore,Madhya Pradesh,,error,error,,error,error,62,2024-02-05
+Indore,Madhya Pradesh,error,201.07,error,error,,error,,2024-02-16
+Indore,Madhya Pradesh,267.35,248.51,14.92,error,error,15.26,160,2024-10-28
+Thane,Maharashtra,,error,109.38,error,,error,119,2024-08-14
+Thane,Maharashtra,225.18,error,40.8,,1.54,,,2024-06-20
+Thane,Maharashtra,error,error,,57.14,,,222,2024-02-01
+Thane,Maharashtra,,error,25.08,,error,39.16,,2024-12-04
+Thane,Maharashtra,111.77,236.17,,6.25,,108.46,error,2024-04-03
+Thane,Maharashtra,200.54,,error,,error,,error,2024-07-21
+Thane,Maharashtra,,,error,error,1.04,24.77,error,2024-03-26
+Thane,Maharashtra,error,385.26,error,54.2,,,,2024-04-04
+Thane,Maharashtra,192.21,error,error,,,,error,2024-05-17
+Thane,Maharashtra,18.69,error,error,error,,error,,2024-01-12
+Bhopal,Madhya Pradesh,277.21,174.86,54.01,error,error,error,385,2024-01-12
+Bhopal,Madhya Pradesh,error,,20.54,error,8.73,,,2024-10-18
+Bhopal,Madhya Pradesh,error,240.7,,,error,56.48,,2024-05-07
+Bhopal,Madhya Pradesh,,,error,,error,61.33,256,2024-08-23
+Bhopal,Madhya Pradesh,,,error,64.95,2.34,80.95,error,2024-06-06
+Bhopal,Madhya Pradesh,205.93,error,error,56.79,error,error,error,2024-03-08
+Bhopal,Madhya Pradesh,27.82,error,,error,0.13,77.25,,2024-04-14
+Bhopal,Madhya Pradesh,,,93.39,,5.72,,94,2024-10-05
+Bhopal,Madhya Pradesh,error,,14.47,27.58,5.27,error,error,2024-11-12
+Bhopal,Madhya Pradesh,error,27.34,,,error,66.67,254,2024-02-17
+Visakhapatnam,Andhra Pradesh,,error,103.0,,5.45,error,,2024-12-18
+Visakhapatnam,Andhra Pradesh,,error,,error,1.19,22.41,,2024-05-24
+Visakhapatnam,Andhra Pradesh,,,91.51,error,,error,410,2024-01-22
+Visakhapatnam,Andhra Pradesh,,,139.62,error,8.47,,error,2024-09-22
+Visakhapatnam,Andhra Pradesh,error,,131.18,error,4.85,error,309,2024-11-18
+Visakhapatnam,Andhra Pradesh,,,error,,,,,2024-11-08
+Visakhapatnam,Andhra Pradesh,,error,,,error,,error,2024-09-09
+Visakhapatnam,Andhra Pradesh,,347.85,error,,,96.04,,2024-06-03
+Visakhapatnam,Andhra Pradesh,error,error,130.69,error,,error,234,2024-11-26
+Visakhapatnam,Andhra Pradesh,32.73,,error,,,101.5,error,2024-11-16
+Patna,Bihar,229.52,error,error,49.91,6.16,,,2024-05-18
+Patna,Bihar,error,error,55.33,error,error,error,,2024-03-14
+Patna,Bihar,error,232.53,error,21.38,5.11,81.77,,2024-09-12
+Patna,Bihar,error,218.92,,error,,,,2024-08-21
+Patna,Bihar,,292.44,,error,,,341,2024-03-08
+Patna,Bihar,,error,74.85,error,,error,error,2024-08-11
+Patna,Bihar,,error,,72.93,,75.39,,2024-10-07
+Patna,Bihar,259.73,error,error,error,,,273,2024-05-01
+Patna,Bihar,error,,61.65,33.21,error,,265,2024-02-05
+Patna,Bihar,,error,62.66,error,,error,147,2024-11-18
+Vadodara,Gujarat,,error,,30.94,3.76,,error,2024-08-12
+Vadodara,Gujarat,61.73,error,,,,22.79,111,2024-06-04
+Vadodara,Gujarat,error,error,,error,,72.96,error,2024-07-13
+Vadodara,Gujarat,,319.32,,,6.38,,error,2024-06-26
+Vadodara,Gujarat,error,error,error,error,2.21,,125,2024-08-19
+Vadodara,Gujarat,error,,99.33,error,error,error,error,2024-01-25
+Vadodara,Gujarat,161.92,error,,error,4.37,58.46,112,2024-09-04
+Vadodara,Gujarat,error,214.73,,13.66,4.56,,405,2024-10-21
+Vadodara,Gujarat,error,,7.97,error,3.64,109.64,error,2024-02-04
+Vadodara,Gujarat,,error,error,error,4.46,84.92,,2024-02-22
+Ghaziabad,Uttar Pradesh,error,,,66.01,,,error,2024-07-26
+Ghaziabad,Uttar Pradesh,282.63,error,23.71,,error,error,error,2024-11-03
+Ghaziabad,Uttar Pradesh,,108.76,7.83,7.02,2.77,96.3,error,2024-07-17
+Ghaziabad,Uttar Pradesh,205.44,32.44,error,,error,105.97,error,2024-08-24
+Ghaziabad,Uttar Pradesh,231.46,,error,65.21,error,104.92,,2024-03-10
+Ghaziabad,Uttar Pradesh,267.23,,83.42,56.19,,93.24,error,2024-02-01
+Ghaziabad,Uttar Pradesh,,error,93.54,,3.94,18.12,,2024-10-15
+Ghaziabad,Uttar Pradesh,error,322.57,12.83,2.46,error,,error,2024-07-18
+Ghaziabad,Uttar Pradesh,206.59,error,,,,error,,2024-08-24
+Ghaziabad,Uttar Pradesh,error,error,,error,,error,error,2024-03-16
+Ludhiana,Punjab,292.91,313.94,134.93,19.16,,35.73,177,2024-01-23
+Ludhiana,Punjab,error,317.89,,48.01,,error,,2024-11-14
+Ludhiana,Punjab,131.96,,88.76,46.86,error,error,error,2024-12-01
+Ludhiana,Punjab,error,183.97,140.42,error,0.61,43.9,,2024-08-26
+Ludhiana,Punjab,error,error,143.91,,error,error,error,2024-06-11
+Ludhiana,Punjab,257.76,,error,71.95,,,448,2024-04-08
+Ludhiana,Punjab,215.99,error,73.46,error,7.16,99.76,error,2024-05-23
+Ludhiana,Punjab,160.89,error,error,,3.27,,error,2024-03-05
+Ludhiana,Punjab,error,error,,,,108.81,,2024-10-20
+Ludhiana,Punjab,error,,error,49.77,3.76,72.81,447,2024-02-05
+Agra,Uttar Pradesh,error,error,error,,error,,error,2024-03-26
+Agra,Uttar Pradesh,error,,,25.67,error,,error,2024-10-07
+Agra,Uttar Pradesh,110.9,error,,error,8.08,error,,2024-12-07
+Agra,Uttar Pradesh,error,380.59,error,,9.02,,390,2024-12-28
+Agra,Uttar Pradesh,,244.85,106.43,,7.05,error,error,2024-10-27
+Agra,Uttar Pradesh,80.49,error,error,,error,86.51,289,2024-11-24
+Agra,Uttar Pradesh,,error,64.29,29.14,2.8,52.63,error,2024-12-24
+Agra,Uttar Pradesh,error,57.62,error,error,,,,2024-12-04
+Agra,Uttar Pradesh,,321.41,error,,,,,2024-11-07
+Agra,Uttar Pradesh,105.28,339.55,error,,error,,365,2024-11-22
+Nashik,Maharashtra,error,error,error,error,error,error,,2024-06-20
+Nashik,Maharashtra,error,246.85,129.02,,error,42.48,error,2024-09-02
+Nashik,Maharashtra,,,79.63,21.83,5.69,101.61,error,2024-05-16
+Nashik,Maharashtra,error,error,80.04,error,3.84,error,error,2024-11-15
+Nashik,Maharashtra,,error,101.96,error,error,,error,2024-03-09
+Nashik,Maharashtra,error,,106.55,,4.67,,,2024-03-17
+Nashik,Maharashtra,129.2,error,,,,error,,2024-05-17
+Nashik,Maharashtra,145.3,error,,25.89,,error,234,2024-01-08
+Nashik,Maharashtra,51.84,error,,,5.53,117.33,143,2024-10-10
+Nashik,Maharashtra,error,380.29,,error,error,91.12,,2024-03-13
+Faridabad,Haryana,,error,,63.99,,,75,2024-11-09
+Faridabad,Haryana,error,error,error,error,9.34,error,469,2024-11-16
+Faridabad,Haryana,170.14,233.54,error,54.04,error,113.42,,2024-03-15
+Faridabad,Haryana,,error,82.87,error,error,,397,2024-08-20
+Faridabad,Haryana,,311.53,92.94,,5.12,error,error,2024-12-28
+Faridabad,Haryana,,error,,,9.62,15.6,71,2024-04-25
+Faridabad,Haryana,,177.78,error,4.8,error,,error,2024-01-07
+Faridabad,Haryana,,error,85.17,73.49,7.64,,,2024-04-10
+Faridabad,Haryana,error,,104.22,error,error,,error,2024-12-20
+Faridabad,Haryana,190.29,246.52,,53.64,8.68,68.8,301,2024-09-05
+Meerut,Uttar Pradesh,error,38.01,error,error,,99.94,,2024-11-05
+Meerut,Uttar Pradesh,71.98,,124.02,error,error,8.15,345,2024-06-17
+Meerut,Uttar Pradesh,20.85,,144.48,63.33,,error,,2024-12-23
+Meerut,Uttar Pradesh,,,67.01,,,,,2024-07-27
+Meerut,Uttar Pradesh,59.65,error,144.58,,7.77,99.34,314,2024-10-26
+Meerut,Uttar Pradesh,error,error,145.2,error,,57.96,error,2024-02-04
+Meerut,Uttar Pradesh,error,error,43.71,error,8.44,43.62,99,2024-12-03
+Meerut,Uttar Pradesh,,109.73,error,error,,28.63,,2024-05-19
+Meerut,Uttar Pradesh,,78.59,error,,,error,147,2024-06-26
+Meerut,Uttar Pradesh,,,118.53,35.12,error,error,error,2024-12-03
+Rajkot,Gujarat,202.7,,,,error,53.93,164,2024-12-22
+Rajkot,Gujarat,,error,error,error,4.77,,,2024-10-09
+Rajkot,Gujarat,,130.37,error,,,,,2024-01-15
+Rajkot,Gujarat,error,194.58,77.07,12.24,error,error,156,2024-01-15
+Rajkot,Gujarat,216.26,300.85,,error,3.21,,error,2024-03-18
+Rajkot,Gujarat,error,error,,error,4.66,109.29,444,2024-06-28
+Rajkot,Gujarat,error,,error,error,error,,error,2024-04-18
+Rajkot,Gujarat,,,error,error,,98.05,236,2024-05-01
+Rajkot,Gujarat,,error,,,error,error,,2024-11-23
+Rajkot,Gujarat,error,error,12.22,,,error,347,2024-05-26
+Kalyan,Maharashtra,,,error,error,5.31,,,2024-02-18
+Kalyan,Maharashtra,126.14,error,,error,6.83,error,error,2024-03-12
+Kalyan,Maharashtra,error,error,error,error,,,417,2024-09-12
+Kalyan,Maharashtra,252.23,error,84.01,69.23,9.0,83.23,,2024-12-26
+Kalyan,Maharashtra,,error,,19.07,1.23,78.45,error,2024-07-12
+Kalyan,Maharashtra,39.49,33.07,,error,error,error,,2024-11-04
+Kalyan,Maharashtra,78.94,error,74.01,30.02,8.5,50.03,error,2024-08-22
+Kalyan,Maharashtra,,,,error,3.08,,,2024-03-07
+Kalyan,Maharashtra,,177.84,,,error,error,225,2024-02-18
+Kalyan,Maharashtra,error,71.49,142.24,error,error,,error,2024-03-21
+Varanasi,Uttar Pradesh,244.36,error,,40.02,,92.01,error,2024-09-09
+Varanasi,Uttar Pradesh,,,error,,,41.81,error,2024-09-27
+Varanasi,Uttar Pradesh,error,61.48,error,,,,error,2024-02-08
+Varanasi,Uttar Pradesh,,error,,error,4.06,43.82,error,2024-10-16
+Varanasi,Uttar Pradesh,204.53,,,error,7.93,,362,2024-04-06
+Varanasi,Uttar Pradesh,,error,,error,3.22,101.44,error,2024-07-25
+Varanasi,Uttar Pradesh,141.74,,,error,error,error,,2024-11-11
+Varanasi,Uttar Pradesh,error,128.02,,error,,116.14,,2024-06-10
+Varanasi,Uttar Pradesh,291.4,153.26,error,32.12,0.99,error,345,2024-11-02
+Varanasi,Uttar Pradesh,,,error,,error,34.44,,2024-07-11
+Srinagar,Jammu and Kashmir,77.89,170.5,,error,,error,130,2024-09-24
+Srinagar,Jammu and Kashmir,281.96,,error,error,3.62,80.59,415,2024-10-08
+Srinagar,Jammu and Kashmir,195.66,error,141.46,error,9.3,117.95,,2024-07-27
+Srinagar,Jammu and Kashmir,14.05,,62.25,error,error,77.72,,2024-05-09
+Srinagar,Jammu and Kashmir,,38.24,,14.68,error,error,error,2024-04-15
+Srinagar,Jammu and Kashmir,52.03,,,error,error,error,error,2024-06-27
+Srinagar,Jammu and Kashmir,64.77,error,,error,4.95,error,302,2024-06-17
+Srinagar,Jammu and Kashmir,error,,error,error,,,,2024-01-28
+Srinagar,Jammu and Kashmir,270.28,65.82,71.92,48.87,1.99,error,,2024-03-28
+Srinagar,Jammu and Kashmir,198.72,246.64,error,,,,335,2024-10-04
+Aurangabad,Maharashtra,error,23.28,119.75,60.77,,52.42,,2024-04-20
+Aurangabad,Maharashtra,,305.22,,,9.55,error,57,2024-05-04
+Aurangabad,Maharashtra,error,384.42,,error,error,,481,2024-03-08
+Aurangabad,Maharashtra,error,,error,error,,55.15,350,2024-02-24
+Aurangabad,Maharashtra,,,,2.08,,,151,2024-04-20
+Aurangabad,Maharashtra,error,,103.6,error,error,,error,2024-05-20
+Aurangabad,Maharashtra,129.76,289.27,145.17,58.63,error,error,,2024-12-23
+Aurangabad,Maharashtra,error,330.98,error,,0.47,error,256,2024-03-05
+Aurangabad,Maharashtra,error,272.05,,error,,57.91,error,2024-05-01
+Aurangabad,Maharashtra,,error,error,,,error,error,2024-03-02
+Dhanbad,Jharkhand,237.58,,error,,,67.47,,2024-07-06
+Dhanbad,Jharkhand,,,,,1.27,error,,2024-08-20
+Dhanbad,Jharkhand,,error,87.01,error,,103.68,,2024-04-13
+Dhanbad,Jharkhand,253.12,208.87,,,,error,error,2024-10-21
+Dhanbad,Jharkhand,291.9,,71.17,error,error,93.73,,2024-12-08
+Dhanbad,Jharkhand,64.73,,,28.38,error,error,,2024-05-28
+Dhanbad,Jharkhand,error,,error,40.31,,,,2024-04-09
+Dhanbad,Jharkhand,error,170.3,56.71,error,,error,,2024-01-01
+Dhanbad,Jharkhand,84.98,,,error,0.42,error,,2024-10-25
+Dhanbad,Jharkhand,error,error,error,error,error,error,,2024-11-20
+Amritsar,Punjab,43.96,42.32,137.08,,error,17.35,,2024-02-22
+Amritsar,Punjab,error,error,error,,,error,error,2024-11-27
+Amritsar,Punjab,error,,error,,,,error,2024-11-16
+Amritsar,Punjab,error,,error,error,error,error,error,2024-04-28
+Amritsar,Punjab,error,381.47,,66.24,,,error,2024-02-07
+Amritsar,Punjab,,212.6,,,error,74.7,error,2024-12-08
+Amritsar,Punjab,error,27.08,35.75,error,error,42.25,293,2024-06-25
+Amritsar,Punjab,error,,,57.52,,error,332,2024-05-19
+Amritsar,Punjab,error,error,,,,83.53,error,2024-04-17
+Amritsar,Punjab,174.09,243.56,error,error,error,error,266,2024-06-10
+Navi Mumbai,Maharashtra,error,,error,,,19.84,281,2024-04-16
+Navi Mumbai,Maharashtra,error,348.56,,error,5.53,error,,2024-03-16
+Navi Mumbai,Maharashtra,112.54,28.15,,error,2.61,77.24,68,2024-09-16
+Navi Mumbai,Maharashtra,,138.39,149.04,error,,error,267,2024-10-12
+Navi Mumbai,Maharashtra,198.22,,error,,error,73.27,,2024-02-01
+Navi Mumbai,Maharashtra,,error,,37.22,,53.34,,2024-03-15
+Navi Mumbai,Maharashtra,error,,114.28,27.38,,error,,2024-01-03
+Navi Mumbai,Maharashtra,error,,17.22,,,,,2024-01-04
+Navi Mumbai,Maharashtra,,219.57,,error,,46.98,354,2024-04-01
+Navi Mumbai,Maharashtra,116.52,,error,error,error,,error,2024-10-23
+Allahabad,Uttar Pradesh,,203.46,,,,error,,2024-07-15
+Allahabad,Uttar Pradesh,,120.03,62.77,25.76,,43.24,97,2024-03-10
+Allahabad,Uttar Pradesh,,137.91,116.74,9.53,,error,391,2024-12-14
+Allahabad,Uttar Pradesh,271.99,,97.77,error,2.49,,185,2024-12-18
+Allahabad,Uttar Pradesh,231.54,180.77,,error,error,39.1,error,2024-02-16
+Allahabad,Uttar Pradesh,96.23,284.35,error,,error,error,,2024-12-06
+Allahabad,Uttar Pradesh,error,error,error,error,5.22,,error,2024-09-01
+Allahabad,Uttar Pradesh,error,224.1,117.68,69.46,error,error,229,2024-06-23
+Allahabad,Uttar Pradesh,,385.67,error,error,8.48,60.43,165,2024-09-04
+Allahabad,Uttar Pradesh,123.81,282.96,error,48.6,error,99.52,error,2024-03-27
+Howrah,West Bengal,120.68,error,error,error,1.11,22.15,,2024-04-06
+Howrah,West Bengal,55.07,329.04,,34.38,,,326,2024-01-25
+Howrah,West Bengal,114.13,,,67.53,error,,277,2024-03-12
+Howrah,West Bengal,192.21,43.92,85.74,41.5,,error,,2024-06-10
+Howrah,West Bengal,,,error,,error,error,181,2024-04-23
+Howrah,West Bengal,error,error,,25.59,error,42.49,error,2024-05-17
+Howrah,West Bengal,262.68,error,121.12,,error,error,error,2024-02-10
+Howrah,West Bengal,error,113.53,51.2,error,3.63,error,88,2024-05-06
+Howrah,West Bengal,,error,error,,error,,130,2024-05-15
+Howrah,West Bengal,error,42.83,131.71,error,error,error,error,2024-01-28
+Ranchi,Jharkhand,error,279.82,,error,9.54,22.43,,2024-04-17
+Ranchi,Jharkhand,,235.61,error,error,2.14,error,error,2024-07-19
+Ranchi,Jharkhand,,error,11.45,,error,,,2024-11-24
+Ranchi,Jharkhand,,error,,error,error,error,error,2024-12-06
+Ranchi,Jharkhand,,281.94,,error,2.69,,error,2024-05-05
+Ranchi,Jharkhand,,error,57.88,49.35,error,97.2,error,2024-04-14
+Ranchi,Jharkhand,133.79,,error,,,error,error,2024-05-09
+Ranchi,Jharkhand,error,297.04,,,9.43,,,2024-04-17
+Ranchi,Jharkhand,,395.76,error,error,3.84,23.04,459,2024-03-09
+Ranchi,Jharkhand,145.32,113.68,111.88,5.12,,,error,2024-10-06
+Gwalior,Madhya Pradesh,201.87,error,error,error,7.48,error,225,2024-03-04
+Gwalior,Madhya Pradesh,error,,error,,error,,,2024-08-04
+Gwalior,Madhya Pradesh,158.86,error,42.26,36.9,,23.59,,2024-09-08
+Gwalior,Madhya Pradesh,214.49,,error,31.28,error,error,,2024-12-06
+Gwalior,Madhya Pradesh,error,35.22,error,error,error,,error,2024-08-05
+Gwalior,Madhya Pradesh,error,error,error,19.66,2.32,error,error,2024-02-10
+Gwalior,Madhya Pradesh,153.04,243.53,error,,error,107.82,,2024-10-11
+Gwalior,Madhya Pradesh,83.99,,error,error,6.08,10.89,error,2024-08-28
+Gwalior,Madhya Pradesh,,error,error,error,,error,,2024-03-05
+Gwalior,Madhya Pradesh,65.36,error,80.33,error,,71.27,75,2024-07-09
+Jabalpur,Madhya Pradesh,137.76,error,error,27.65,3.55,,,2024-04-07
+Jabalpur,Madhya Pradesh,15.35,,111.45,error,,error,error,2024-04-09
+Jabalpur,Madhya Pradesh,40.83,error,error,error,2.43,error,162,2024-02-16
+Jabalpur,Madhya Pradesh,error,,,,error,31.48,,2024-03-06
+Jabalpur,Madhya Pradesh,258.55,303.17,20.06,error,,error,236,2024-04-15
+Jabalpur,Madhya Pradesh,,390.37,147.78,error,5.03,,178,2024-07-20
+Jabalpur,Madhya Pradesh,182.21,,36.97,error,error,64.08,,2024-05-14
+Jabalpur,Madhya Pradesh,295.51,error,error,35.6,5.28,64.21,error,2024-02-21
+Jabalpur,Madhya Pradesh,,,35.6,28.21,error,,,2024-11-23
+Jabalpur,Madhya Pradesh,,error,25.18,error,,43.91,,2024-04-04
+Coimbatore,Tamil Nadu,error,error,error,,8.82,117.02,312,2024-03-02
+Coimbatore,Tamil Nadu,error,error,error,48.89,,53.99,,2024-07-04
+Coimbatore,Tamil Nadu,,error,error,error,,44.33,309,2024-01-20
+Coimbatore,Tamil Nadu,228.41,,31.94,error,8.72,,479,2024-08-19
+Coimbatore,Tamil Nadu,error,225.82,,25.27,error,,266,2024-12-28
+Coimbatore,Tamil Nadu,202.53,,error,41.44,5.92,98.02,,2024-11-16
+Coimbatore,Tamil Nadu,163.94,error,123.93,33.28,,,,2024-01-14
+Coimbatore,Tamil Nadu,,,,,5.4,error,error,2024-01-02
+Coimbatore,Tamil Nadu,error,,,75.2,2.59,,399,2024-01-10
+Coimbatore,Tamil Nadu,error,,error,74.1,,error,59,2024-09-13
+Vijayawada,Andhra Pradesh,error,,141.74,72.27,,36.0,,2024-07-06
+Vijayawada,Andhra Pradesh,,366.18,,,4.54,,,2024-02-05
+Vijayawada,Andhra Pradesh,error,128.02,error,error,error,46.41,242,2024-11-06
+Vijayawada,Andhra Pradesh,error,,error,,,76.37,error,2024-02-21
+Vijayawada,Andhra Pradesh,273.78,53.94,error,error,,,error,2024-05-17
+Vijayawada,Andhra Pradesh,64.76,,56.72,14.64,0.96,,,2024-06-14
+Vijayawada,Andhra Pradesh,error,error,error,error,error,,,2024-04-07
+Vijayawada,Andhra Pradesh,89.28,,50.54,error,error,98.5,,2024-11-14
+Vijayawada,Andhra Pradesh,,27.96,,,error,,,2024-06-08
+Vijayawada,Andhra Pradesh,error,396.64,,,,17.32,error,2024-02-12
+Madurai,Tamil Nadu,error,error,,error,error,,error,2024-02-03
+Madurai,Tamil Nadu,,,,error,1.02,92.09,,2024-07-01
+Madurai,Tamil Nadu,,error,,error,,error,390,2024-06-28
+Madurai,Tamil Nadu,60.59,,,error,error,5.03,130,2024-10-05
+Madurai,Tamil Nadu,,47.48,,,,error,error,2024-06-13
+Madurai,Tamil Nadu,,,40.49,,1.04,,error,2024-02-13
+Madurai,Tamil Nadu,error,error,116.75,,0.94,error,127,2024-02-13
+Madurai,Tamil Nadu,204.4,,error,,4.01,31.18,error,2024-01-27
+Madurai,Tamil Nadu,270.59,57.18,,51.19,5.9,27.56,,2024-08-18
+Madurai,Tamil Nadu,,101.86,error,error,,error,152,2024-11-13
+Raipur,Chhattisgarh,error,,,,error,error,,2024-12-17
+Raipur,Chhattisgarh,281.69,error,error,,error,error,error,2024-02-14
+Raipur,Chhattisgarh,135.03,359.3,,,3.51,92.33,470,2024-02-12
+Raipur,Chhattisgarh,,149.9,,,7.59,95.34,error,2024-06-13
+Raipur,Chhattisgarh,,error,,46.08,error,9.26,194,2024-10-04
+Raipur,Chhattisgarh,error,,error,74.75,,error,373,2024-01-05
+Raipur,Chhattisgarh,133.86,,,8.85,,error,error,2024-04-01
+Raipur,Chhattisgarh,error,error,66.18,error,error,,,2024-04-26
+Raipur,Chhattisgarh,,,,,error,32.54,148,2024-07-27
+Raipur,Chhattisgarh,error,303.22,error,14.9,error,46.33,,2024-03-04
+Kota,Rajasthan,,116.58,error,74.63,error,,155,2024-07-03
+Kota,Rajasthan,error,30.57,,39.17,8.09,error,,2024-08-22
+Kota,Rajasthan,,317.73,61.73,46.35,error,error,error,2024-06-15
+Kota,Rajasthan,210.47,error,error,54.31,,88.47,384,2024-12-12
+Kota,Rajasthan,error,error,error,39.17,5.57,error,376,2024-04-22
+Kota,Rajasthan,,error,error,79.8,7.72,,error,2024-04-12
+Kota,Rajasthan,error,195.9,72.23,error,5.0,116.06,error,2024-07-04
+Kota,Rajasthan,error,error,58.11,40.09,6.86,,314,2024-11-04
+Kota,Rajasthan,,error,15.59,,2.99,error,458,2024-08-03
+Kota,Rajasthan,,,error,error,,error,,2024-04-04
+Guwahati,Assam,,,error,37.35,,,error,2024-02-14
+Guwahati,Assam,,,36.02,3.26,,,,2024-11-18
+Guwahati,Assam,error,118.4,106.95,,,error,error,2024-05-17
+Guwahati,Assam,94.8,248.71,,,3.0,27.67,error,2024-09-04
+Guwahati,Assam,,error,error,,,error,,2024-03-04
+Guwahati,Assam,error,error,29.49,65.89,4.69,error,,2024-11-27
+Guwahati,Assam,58.13,error,55.83,14.84,,94.7,,2024-04-11
+Guwahati,Assam,error,237.16,90.61,76.03,6.52,,307,2024-09-24
+Guwahati,Assam,184.77,159.46,error,6.44,7.73,error,127,2024-09-27
+Guwahati,Assam,170.33,,38.99,error,error,error,289,2024-03-01
+Chandigarh,Chandigarh,error,247.09,,17.49,1.01,error,180,2024-05-26
+Chandigarh,Chandigarh,error,86.38,error,error,error,113.1,260,2024-12-06
+Chandigarh,Chandigarh,175.25,,66.05,,7.81,,194,2024-11-09
+Chandigarh,Chandigarh,39.74,60.57,error,error,0.19,error,232,2024-11-19
+Chandigarh,Chandigarh,,346.7,,55.1,8.56,46.08,,2024-05-04
+Chandigarh,Chandigarh,error,error,104.83,71.05,error,75.33,error,2024-07-03
+Chandigarh,Chandigarh,error,,,error,error,,error,2024-12-17
+Chandigarh,Chandigarh,270.93,,,63.98,3.72,error,200,2024-12-14
+Chandigarh,Chandigarh,error,,,,,54.14,error,2024-06-03
+Chandigarh,Chandigarh,70.89,error,123.94,,7.17,,186,2024-02-10
+Solapur,Maharashtra,error,119.91,149.34,4.9,error,error,error,2024-03-04
+Solapur,Maharashtra,error,254.8,,33.13,error,,,2024-10-04
+Solapur,Maharashtra,227.7,error,44.79,55.89,0.92,error,,2024-03-03
+Solapur,Maharashtra,37.75,error,,45.87,3.21,9.37,56,2024-07-20
+Solapur,Maharashtra,error,,102.79,,error,,,2024-02-10
+Solapur,Maharashtra,,error,,error,1.22,,455,2024-09-01
+Solapur,Maharashtra,error,153.69,98.1,73.51,6.81,92.87,error,2024-02-22
+Solapur,Maharashtra,error,error,error,44.65,6.05,,error,2024-12-27
+Solapur,Maharashtra,161.33,,59.65,4.32,,,,2024-10-16
+Solapur,Maharashtra,error,error,error,21.28,,error,,2024-01-12
+Hubballi,Karnataka,error,146.53,,,,,485,2024-01-01
+Hubballi,Karnataka,error,error,error,51.37,,error,340,2024-04-26
+Hubballi,Karnataka,144.55,,,7.2,,error,,2024-04-24
+Hubballi,Karnataka,,197.69,18.65,error,error,error,155,2024-10-17
+Hubballi,Karnataka,240.11,error,130.49,11.99,,,error,2024-06-09
+Hubballi,Karnataka,,error,,54.83,,error,476,2024-12-09
+Hubballi,Karnataka,error,error,125.07,error,,85.39,error,2024-09-15
+Hubballi,Karnataka,92.22,358.97,117.59,,,40.66,83,2024-04-07
+Hubballi,Karnataka,284.48,76.85,error,error,,73.57,272,2024-03-07
+Hubballi,Karnataka,,error,error,20.48,,,164,2024-03-27
+Mysore,Karnataka,error,error,error,,error,error,157,2024-01-22
+Mysore,Karnataka,error,259.87,,,,14.49,421,2024-12-20
+Mysore,Karnataka,error,,,error,error,error,411,2024-11-26
+Mysore,Karnataka,127.09,177.88,17.03,6.36,error,error,error,2024-03-09
+Mysore,Karnataka,,361.47,140.72,40.78,error,,error,2024-05-01
+Mysore,Karnataka,error,139.23,error,,error,,error,2024-11-14
+Mysore,Karnataka,20.65,,37.36,,0.11,,error,2024-06-13
+Mysore,Karnataka,,336.41,error,52.96,error,error,,2024-10-16
+Mysore,Karnataka,error,75.46,error,46.72,,error,463,2024-05-06
+Mysore,Karnataka,error,,111.41,,error,58.8,271,2024-12-06
+Tiruchirappalli,Tamil Nadu,,error,133.84,79.82,error,25.01,390,2024-10-16
+Tiruchirappalli,Tamil Nadu,112.57,382.74,40.82,67.91,error,,,2024-11-12
+Tiruchirappalli,Tamil Nadu,,error,141.34,,error,,,2024-10-20
+Tiruchirappalli,Tamil Nadu,,error,,16.07,error,89.04,error,2024-05-11
+Tiruchirappalli,Tamil Nadu,error,,error,,6.53,error,252,2024-10-23
+Tiruchirappalli,Tamil Nadu,error,error,61.61,error,error,,179,2024-11-03
+Tiruchirappalli,Tamil Nadu,77.17,error,error,64.64,error,69.26,,2024-04-03
+Tiruchirappalli,Tamil Nadu,error,error,34.49,36.87,2.62,106.16,error,2024-11-12
+Tiruchirappalli,Tamil Nadu,,error,,40.77,error,60.76,error,2024-05-14
+Tiruchirappalli,Tamil Nadu,242.48,,error,,,error,,2024-03-02
+Bareilly,Uttar Pradesh,129.42,error,16.46,45.16,,,,2024-09-22
+Bareilly,Uttar Pradesh,200.94,59.25,136.27,62.02,6.18,,error,2024-12-01
+Bareilly,Uttar Pradesh,,error,error,13.57,error,82.02,422,2024-09-09
+Bareilly,Uttar Pradesh,266.98,,37.96,error,2.15,error,,2024-11-06
+Bareilly,Uttar Pradesh,74.53,126.92,7.7,error,8.07,error,,2024-01-23
+Bareilly,Uttar Pradesh,error,error,119.77,,error,error,error,2024-06-07
+Bareilly,Uttar Pradesh,294.57,,,,error,error,191,2024-07-27
+Bareilly,Uttar Pradesh,,262.49,37.73,error,4.7,,error,2024-03-03
+Bareilly,Uttar Pradesh,,error,error,15.89,2.76,,337,2024-11-12
+Bareilly,Uttar Pradesh,192.55,108.87,error,error,,65.44,error,2024-06-26
+Aligarh,Uttar Pradesh,265.41,,,error,error,91.35,104,2024-04-21
+Aligarh,Uttar Pradesh,197.89,308.22,,error,8.46,,490,2024-06-02
+Aligarh,Uttar Pradesh,105.11,error,,error,8.16,,147,2024-07-22
+Aligarh,Uttar Pradesh,,274.31,error,,1.84,error,,2024-11-01
+Aligarh,Uttar Pradesh,error,error,,64.67,0.85,error,126,2024-11-01
+Aligarh,Uttar Pradesh,,270.14,133.72,,,12.7,error,2024-10-28
+Aligarh,Uttar Pradesh,error,error,,,,error,87,2024-09-14
+Aligarh,Uttar Pradesh,68.32,,46.41,,error,62.38,,2024-06-21
+Aligarh,Uttar Pradesh,,,error,37.72,8.82,,,2024-05-07
+Aligarh,Uttar Pradesh,,,error,error,0.57,error,,2024-09-22
+Tiruppur,Tamil Nadu,error,,5.41,,,33.14,,2024-08-19
+Tiruppur,Tamil Nadu,error,,81.06,error,,21.08,161,2024-10-19
+Tiruppur,Tamil Nadu,,,49.23,9.8,error,,error,2024-09-14
+Tiruppur,Tamil Nadu,,error,,error,,79.01,error,2024-02-19
+Tiruppur,Tamil Nadu,,351.71,,error,7.76,error,,2024-03-20
+Tiruppur,Tamil Nadu,,368.24,41.9,,error,37.07,153,2024-01-05
+Tiruppur,Tamil Nadu,,116.08,,42.76,,106.82,418,2024-04-12
+Tiruppur,Tamil Nadu,,27.23,error,3.6,error,error,388,2024-05-21
+Tiruppur,Tamil Nadu,207.75,error,145.63,34.53,7.39,,error,2024-04-23
+Tiruppur,Tamil Nadu,23.98,,error,,error,,,2024-11-22
+Moradabad,Uttar Pradesh,,334.71,,37.55,error,error,,2024-03-25
+Moradabad,Uttar Pradesh,,error,77.87,,2.36,,,2024-03-18
+Moradabad,Uttar Pradesh,277.92,error,,15.18,5.84,,446,2024-11-04
+Moradabad,Uttar Pradesh,error,error,error,error,,,error,2024-10-24
+Moradabad,Uttar Pradesh,,error,11.53,error,,,493,2024-06-03
+Moradabad,Uttar Pradesh,,error,,error,error,91.52,,2024-06-03
+Moradabad,Uttar Pradesh,,error,error,error,2.65,21.58,error,2024-08-15
+Moradabad,Uttar Pradesh,248.13,error,147.34,40.94,6.93,22.9,201,2024-04-03
+Moradabad,Uttar Pradesh,,71.06,error,error,6.15,31.44,error,2024-02-22
+Moradabad,Uttar Pradesh,error,,,error,,104.61,,2024-04-07
+Jodhpur,Rajasthan,,,72.69,error,error,error,error,2024-08-14
+Jodhpur,Rajasthan,,error,error,70.48,error,,error,2024-06-11
+Jodhpur,Rajasthan,error,error,error,error,,,,2024-07-26
+Jodhpur,Rajasthan,error,error,error,45.33,7.17,46.58,,2024-05-27
+Jodhpur,Rajasthan,error,error,45.73,22.8,error,77.72,298,2024-01-12
+Jodhpur,Rajasthan,error,error,error,error,8.37,,error,2024-04-19
+Jodhpur,Rajasthan,,203.17,,,error,,,2024-06-19
+Jodhpur,Rajasthan,,349.78,10.85,,error,8.03,420,2024-06-20
+Jodhpur,Rajasthan,,error,error,24.69,error,error,,2024-03-06
+Jodhpur,Rajasthan,error,error,,,,error,,2024-11-12
+Guntur,Andhra Pradesh,,error,,error,5.1,,441,2024-02-08
+Guntur,Andhra Pradesh,223.03,,error,error,,51.65,error,2024-04-04
+Guntur,Andhra Pradesh,,,,72.89,4.72,93.39,error,2024-04-06
+Guntur,Andhra Pradesh,78.39,,,65.86,error,error,,2024-06-13
+Guntur,Andhra Pradesh,176.84,error,103.39,55.32,0.35,error,398,2024-03-15
+Guntur,Andhra Pradesh,100.27,277.57,,,error,45.45,error,2024-05-08
+Guntur,Andhra Pradesh,error,220.79,error,,,,,2024-03-13
+Guntur,Andhra Pradesh,264.19,157.99,15.28,41.32,error,,,2024-05-21
+Guntur,Andhra Pradesh,257.44,error,error,error,1.12,,,2024-03-03
+Guntur,Andhra Pradesh,108.8,error,123.82,error,,error,error,2024-03-14
+Bikaner,Rajasthan,103.57,,58.06,,error,error,error,2024-04-22
+Bikaner,Rajasthan,,,error,53.08,8.79,error,142,2024-10-14
+Bikaner,Rajasthan,37.5,234.75,97.35,,,19.5,306,2024-07-04
+Bikaner,Rajasthan,225.32,error,error,19.98,error,error,73,2024-09-03
+Bikaner,Rajasthan,223.55,error,error,17.4,,59.76,208,2024-12-20
+Bikaner,Rajasthan,,error,,,error,,423,2024-06-24
+Bikaner,Rajasthan,222.27,error,error,4.23,,error,424,2024-12-26
+Bikaner,Rajasthan,,,error,,,error,441,2024-01-04
+Bikaner,Rajasthan,105.11,error,133.64,50.44,0.72,error,error,2024-02-14
+Bikaner,Rajasthan,30.14,error,,,,,353,2024-08-18
+Salem,Tamil Nadu,,,,error,5.16,,,2024-04-28
+Salem,Tamil Nadu,,399.12,error,18.2,,92.15,,2024-01-25
+Salem,Tamil Nadu,20.68,275.06,,error,error,error,482,2024-09-28
+Salem,Tamil Nadu,,,55.07,48.45,3.52,49.0,91,2024-04-21
+Salem,Tamil Nadu,error,error,31.89,,,,error,2024-03-03
+Salem,Tamil Nadu,88.34,,,error,,,459,2024-01-06
+Salem,Tamil Nadu,,238.29,error,,4.49,,,2024-08-17
+Salem,Tamil Nadu,,87.16,,,error,error,error,2024-09-22
+Salem,Tamil Nadu,,70.58,118.29,,9.64,error,error,2024-11-19
+Salem,Tamil Nadu,196.42,,39.89,67.17,error,error,error,2024-02-06
+Warangal,Telangana,error,,,,error,error,68,2024-08-12
+Warangal,Telangana,error,error,,,,59.65,442,2024-12-18
+Warangal,Telangana,260.19,,error,error,8.74,,,2024-11-21
+Warangal,Telangana,error,error,error,26.68,error,error,error,2024-12-09
+Warangal,Telangana,274.25,error,,42.34,2.68,,,2024-12-15
+Warangal,Telangana,,186.21,error,error,0.38,error,111,2024-04-11
+Warangal,Telangana,,164.07,120.67,,error,76.38,,2024-05-25
+Warangal,Telangana,47.48,,error,,4.22,,error,2024-02-05
+Warangal,Telangana,,196.66,,2.23,,119.25,177,2024-04-19
+Warangal,Telangana,215.2,error,7.9,error,7.78,91.18,373,2024-12-02
+Mira-Bhayandar,Maharashtra,14.15,145.88,143.79,error,1.99,70.94,,2024-10-06
+Mira-Bhayandar,Maharashtra,,,135.68,52.48,error,error,error,2024-07-10
+Mira-Bhayandar,Maharashtra,,,,,,,error,2024-11-11
+Mira-Bhayandar,Maharashtra,error,,,error,1.29,,218,2024-09-26
+Mira-Bhayandar,Maharashtra,,113.71,,45.92,error,,error,2024-01-22
+Mira-Bhayandar,Maharashtra,,131.47,error,,error,,418,2024-08-20
+Mira-Bhayandar,Maharashtra,62.94,373.58,69.0,33.67,error,39.01,,2024-04-06
+Mira-Bhayandar,Maharashtra,,110.98,,30.97,error,56.43,,2024-08-17
+Mira-Bhayandar,Maharashtra,,error,,,9.9,,error,2024-11-08
+Mira-Bhayandar,Maharashtra,261.71,,,,,,154,2024-10-26
+Thiruvananthapuram,Kerala,268.4,error,error,48.8,error,71.39,error,2024-11-21
+Thiruvananthapuram,Kerala,,180.78,111.77,error,error,19.26,479,2024-09-16
+Thiruvananthapuram,Kerala,239.83,,77.08,,error,error,error,2024-06-27
+Thiruvananthapuram,Kerala,error,197.32,,error,error,,error,2024-06-28
+Thiruvananthapuram,Kerala,error,291.56,,54.41,error,59.48,,2024-05-25
+Thiruvananthapuram,Kerala,error,330.97,error,,,88.88,error,2024-05-02
+Thiruvananthapuram,Kerala,error,,error,30.83,,error,error,2024-01-03
+Thiruvananthapuram,Kerala,151.68,error,,error,error,,,2024-05-28
+Thiruvananthapuram,Kerala,291.34,error,125.8,error,3.49,error,,2024-10-23
+Thiruvananthapuram,Kerala,40.9,338.86,error,52.92,error,53.6,error,2024-07-07
+Bhubaneswar,Odisha,error,159.68,error,43.43,,,error,2024-03-09
+Bhubaneswar,Odisha,error,,,,8.16,,error,2024-08-12
+Bhubaneswar,Odisha,,,,43.56,error,119.92,,2024-02-20
+Bhubaneswar,Odisha,,,error,19.7,,error,error,2024-12-24
+Bhubaneswar,Odisha,262.33,error,82.63,44.12,error,error,,2024-03-27
+Bhubaneswar,Odisha,,313.46,error,38.58,4.83,,error,2024-06-26
+Bhubaneswar,Odisha,,159.72,error,42.34,,,,2024-09-03
+Bhubaneswar,Odisha,109.34,208.42,error,error,error,,error,2024-01-10
+Bhubaneswar,Odisha,250.6,101.9,error,21.98,5.46,,88,2024-02-13
+Bhubaneswar,Odisha,error,,,error,,,424,2024-08-19
+Noida,Uttar Pradesh,error,260.25,71.0,,0.88,error,210,2024-02-12
+Noida,Uttar Pradesh,,187.03,error,39.23,error,53.55,,2024-01-27
+Noida,Uttar Pradesh,error,369.81,error,,error,,160,2024-05-09
+Noida,Uttar Pradesh,229.52,390.57,error,38.37,6.81,54.75,error,2024-04-12
+Noida,Uttar Pradesh,,115.81,error,,6.03,,error,2024-01-14
+Noida,Uttar Pradesh,error,102.54,117.01,,5.45,error,51,2024-02-06
+Noida,Uttar Pradesh,error,,error,57.67,error,90.58,117,2024-12-23
+Noida,Uttar Pradesh,,315.83,,error,error,,,2024-09-13
+Noida,Uttar Pradesh,error,error,15.34,,error,,error,2024-04-14
+Noida,Uttar Pradesh,error,,115.65,,,error,,2024-10-24
+Jamshedpur,Jharkhand,error,303.03,error,error,8.29,,error,2024-02-14
+Jamshedpur,Jharkhand,error,error,error,,,,,2024-06-18
+Jamshedpur,Jharkhand,error,21.47,error,error,,error,224,2024-05-03
+Jamshedpur,Jharkhand,237.17,,error,46.93,,,,2024-12-08
+Jamshedpur,Jharkhand,,error,,error,2.11,85.89,,2024-05-14
+Jamshedpur,Jharkhand,,,130.25,13.79,0.74,,421,2024-12-16
+Jamshedpur,Jharkhand,error,,error,,,,error,2024-04-25
+Jamshedpur,Jharkhand,,error,error,42.43,,error,error,2024-09-11
+Jamshedpur,Jharkhand,error,51.83,55.83,,error,,error,2024-07-01
+Jamshedpur,Jharkhand,161.0,,error,,error,error,382,2024-11-12
+Bhilai,Chhattisgarh,91.06,,68.32,error,0.35,,,2024-12-25
+Bhilai,Chhattisgarh,error,89.14,,,,80.5,error,2024-08-16
+Bhilai,Chhattisgarh,190.72,321.08,error,error,,45.23,449,2024-12-10
+Bhilai,Chhattisgarh,error,error,44.56,error,6.76,10.07,,2024-11-21
+Bhilai,Chhattisgarh,error,,,,0.7,,error,2024-01-03
+Bhilai,Chhattisgarh,256.45,error,98.6,,,error,,2024-05-09
+Bhilai,Chhattisgarh,,271.59,,,,26.32,error,2024-10-01
+Bhilai,Chhattisgarh,210.79,error,19.12,,2.15,28.16,error,2024-12-13
+Bhilai,Chhattisgarh,,error,45.34,,,error,106,2024-02-01
+Bhilai,Chhattisgarh,220.95,error,73.48,,error,107.31,error,2024-11-27
+Cuttack,Odisha,,error,,77.56,,error,,2024-09-08
+Cuttack,Odisha,176.52,,,error,5.04,83.87,90,2024-02-16
+Cuttack,Odisha,79.86,,,7.51,error,57.03,,2024-11-14
+Cuttack,Odisha,95.59,error,,error,8.48,,126,2024-01-05
+Cuttack,Odisha,,24.99,,,error,,,2024-06-13
+Cuttack,Odisha,error,error,error,,error,118.42,,2024-09-12
+Cuttack,Odisha,error,288.93,98.28,64.82,,45.6,error,2024-01-14
+Cuttack,Odisha,error,298.02,error,55.17,,error,,2024-06-16
+Cuttack,Odisha,,,,23.49,error,39.08,,2024-02-25
+Cuttack,Odisha,,error,error,64.61,0.86,102.87,error,2024-08-05
+Firozabad,Uttar Pradesh,121.41,,error,,error,80.0,,2024-01-02
+Firozabad,Uttar Pradesh,253.57,316.62,,72.43,6.72,,,2024-02-08
+Firozabad,Uttar Pradesh,,,error,error,error,error,367,2024-07-11
+Firozabad,Uttar Pradesh,,error,error,35.85,error,94.54,,2024-11-15
+Firozabad,Uttar Pradesh,,26.98,,error,error,,,2024-08-05
+Firozabad,Uttar Pradesh,,error,,error,1.65,111.54,371,2024-04-04
+Firozabad,Uttar Pradesh,error,321.76,116.71,error,3.65,104.36,,2024-06-08
+Firozabad,Uttar Pradesh,error,,error,error,error,,492,2024-06-23
+Firozabad,Uttar Pradesh,error,362.26,116.74,,2.02,58.63,407,2024-05-25
+Firozabad,Uttar Pradesh,error,error,error,,6.11,error,,2024-02-03
+Kochi,Kerala,error,330.11,error,20.46,1.24,34.73,104,2024-06-23
+Kochi,Kerala,error,error,93.93,,error,59.69,error,2024-02-25
+Kochi,Kerala,error,370.68,error,error,,,336,2024-05-18
+Kochi,Kerala,,351.47,,error,,,395,2024-11-22
+Kochi,Kerala,54.96,187.09,149.4,error,4.73,error,error,2024-01-21
+Kochi,Kerala,,311.89,,52.23,error,111.57,279,2024-01-19
+Kochi,Kerala,256.33,error,93.85,,error,26.95,error,2024-05-22
+Kochi,Kerala,,error,error,,,64.62,error,2024-07-24
+Kochi,Kerala,166.45,error,error,73.52,,error,291,2024-11-21
+Kochi,Kerala,180.01,error,,,error,53.6,error,2024-10-10
+Dehradun,Uttarakhand,,error,,28.8,,error,176,2024-11-01
+Dehradun,Uttarakhand,219.57,,error,59.3,,39.54,335,2024-02-13
+Dehradun,Uttarakhand,error,error,23.53,,7.37,,error,2024-04-24
+Dehradun,Uttarakhand,113.11,error,74.79,25.8,0.91,19.2,,2024-02-05
+Dehradun,Uttarakhand,error,212.95,,10.1,error,error,461,2024-03-27
+Dehradun,Uttarakhand,207.19,error,117.97,69.83,0.93,,,2024-07-06
+Dehradun,Uttarakhand,,error,,19.6,0.61,error,error,2024-03-11
+Dehradun,Uttarakhand,,error,,,2.62,error,error,2024-05-19
+Dehradun,Uttarakhand,,,error,62.14,8.83,,331,2024-02-28
+Dehradun,Uttarakhand,error,,98.88,,error,115.88,error,2024-12-16
+Durgapur,West Bengal,error,error,41.31,,,error,error,2024-08-16
+Durgapur,West Bengal,error,error,error,72.56,,error,244,2024-02-08
+Durgapur,West Bengal,,144.03,61.43,error,,,280,2024-07-23
+Durgapur,West Bengal,,229.65,,,error,,error,2024-02-10
+Durgapur,West Bengal,255.54,,error,error,error,,438,2024-09-11
+Durgapur,West Bengal,,error,33.67,error,error,98.74,error,2024-06-12
+Durgapur,West Bengal,294.03,305.95,36.28,,error,60.58,error,2024-04-23
+Durgapur,West Bengal,276.54,394.84,,,9.14,error,98,2024-12-18
+Durgapur,West Bengal,,123.57,,,error,error,81,2024-12-07
+Durgapur,West Bengal,,337.97,84.49,error,9.47,error,error,2024-05-24
+Asansol,West Bengal,140.39,error,,error,error,59.26,437,2024-09-08
+Asansol,West Bengal,250.66,31.32,117.38,,error,error,315,2024-02-24
+Asansol,West Bengal,error,error,,error,0.15,,,2024-06-20
+Asansol,West Bengal,279.6,error,error,,4.47,error,,2024-03-03
+Asansol,West Bengal,135.04,163.59,103.33,error,3.47,error,269,2024-08-12
+Asansol,West Bengal,error,error,76.65,5.89,4.32,error,error,2024-09-22
+Asansol,West Bengal,263.38,error,error,39.13,error,,,2024-07-01
+Asansol,West Bengal,,158.13,error,,,,,2024-07-25
+Asansol,West Bengal,57.08,208.68,error,,9.35,error,,2024-08-07
+Asansol,West Bengal,,308.35,,44.98,5.49,,,2024-11-08
+Nanded,Maharashtra,,353.67,16.23,,error,,,2024-08-22
+Nanded,Maharashtra,,error,35.03,error,9.77,45.75,443,2024-06-05
+Nanded,Maharashtra,,,error,66.13,,error,error,2024-04-20
+Nanded,Maharashtra,,error,,error,,33.95,error,2024-10-19
+Nanded,Maharashtra,,35.26,error,error,error,,error,2024-12-03
+Nanded,Maharashtra,,359.9,67.24,59.55,5.59,99.66,,2024-05-16
+Nanded,Maharashtra,,,error,,,error,92,2024-06-28
+Nanded,Maharashtra,,100.48,error,66.61,error,94.77,,2024-04-26
+Nanded,Maharashtra,,,,,error,error,error,2024-04-28
+Nanded,Maharashtra,,,error,,7.05,error,error,2024-06-20
+Kolhapur,Maharashtra,,error,error,4.51,6.56,86.21,,2024-07-16
+Kolhapur,Maharashtra,,,error,,error,,122,2024-09-26
+Kolhapur,Maharashtra,error,352.44,146.81,,,110.25,,2024-05-09
+Kolhapur,Maharashtra,,error,,,2.46,,error,2024-05-22
+Kolhapur,Maharashtra,error,343.68,,error,error,error,116,2024-11-20
+Kolhapur,Maharashtra,,48.46,error,error,,error,,2024-04-18
+Kolhapur,Maharashtra,241.13,error,error,65.43,error,error,error,2024-02-26
+Kolhapur,Maharashtra,error,124.67,61.02,,,12.87,error,2024-09-11
+Kolhapur,Maharashtra,,error,error,,,90.68,error,2024-10-21
+Kolhapur,Maharashtra,291.62,60.14,62.3,error,0.62,108.07,error,2024-01-06
+Ajmer,Rajasthan,,118.97,10.46,22.98,error,error,error,2024-07-12
+Ajmer,Rajasthan,,,error,error,,,310,2024-10-21
+Ajmer,Rajasthan,273.61,,52.44,55.0,error,,,2024-03-14
+Ajmer,Rajasthan,250.81,172.88,,,5.1,,,2024-09-26
+Ajmer,Rajasthan,13.69,201.94,,,error,error,error,2024-12-20
+Ajmer,Rajasthan,298.69,error,,,2.8,10.86,146,2024-09-19
+Ajmer,Rajasthan,error,error,error,error,error,96.08,,2024-11-17
+Ajmer,Rajasthan,error,,error,21.72,,,,2024-07-11
+Ajmer,Rajasthan,158.85,error,,34.16,error,,,2024-08-16
+Ajmer,Rajasthan,error,387.43,error,error,3.93,79.14,,2024-11-04
+Gandhinagar,Gujarat,188.3,error,9.58,error,,,error,2024-12-04
+Gandhinagar,Gujarat,,,error,,error,46.55,,2024-07-22
+Gandhinagar,Gujarat,,258.09,67.72,18.73,9.65,error,,2024-10-04
+Gandhinagar,Gujarat,194.82,,error,56.73,8.18,error,error,2024-07-25
+Gandhinagar,Gujarat,error,,error,29.79,error,error,,2024-09-27
+Gandhinagar,Gujarat,error,239.21,error,69.72,error,,296,2024-06-20
+Gandhinagar,Gujarat,294.94,34.6,error,,4.13,43.16,391,2024-04-16
+Gandhinagar,Gujarat,172.34,,23.52,,error,error,error,2024-08-05
+Gandhinagar,Gujarat,,,20.52,65.75,9.81,,59,2024-10-19
+Gandhinagar,Gujarat,,error,,error,0.48,34.7,error,2024-02-10
+Ujjain,Madhya Pradesh,error,165.31,error,,error,,,2024-03-19
+Ujjain,Madhya Pradesh,,,70.32,error,1.52,error,error,2024-02-18
+Ujjain,Madhya Pradesh,,,96.07,error,,87.95,169,2024-05-06
+Ujjain,Madhya Pradesh,,128.92,,error,,error,320,2024-10-05
+Ujjain,Madhya Pradesh,117.58,,error,,,53.73,error,2024-03-07
+Ujjain,Madhya Pradesh,57.11,,error,,9.62,8.6,error,2024-11-08
+Ujjain,Madhya Pradesh,error,96.23,error,error,,6.41,error,2024-06-08
+Ujjain,Madhya Pradesh,,,141.55,error,2.56,74.51,,2024-01-11
+Ujjain,Madhya Pradesh,243.76,,7.71,,,error,error,2024-01-15
+Ujjain,Madhya Pradesh,,359.47,99.89,,error,,,2024-02-12
+Siliguri,West Bengal,error,error,119.83,59.39,,,78,2024-02-05
+Siliguri,West Bengal,error,242.59,64.96,,,error,280,2024-06-03
+Siliguri,West Bengal,,,error,68.22,6.25,26.19,,2024-12-19
+Siliguri,West Bengal,,error,,error,,106.5,108,2024-03-20
+Siliguri,West Bengal,,,error,error,,13.03,,2024-11-23
+Siliguri,West Bengal,error,,error,57.25,error,error,error,2024-08-26
+Siliguri,West Bengal,167.01,error,,65.21,2.23,,,2024-03-06
+Siliguri,West Bengal,269.53,172.9,116.56,,6.32,71.82,error,2024-08-24
+Siliguri,West Bengal,error,98.76,135.37,,,,262,2024-04-12
+Siliguri,West Bengal,,386.47,error,,,error,error,2024-10-10
+Jhansi,Uttar Pradesh,,error,error,,5.4,,error,2024-09-04
+Jhansi,Uttar Pradesh,,55.57,64.74,,,,error,2024-07-17
+Jhansi,Uttar Pradesh,233.79,80.73,63.96,,error,error,error,2024-07-12
+Jhansi,Uttar Pradesh,30.2,error,error,27.51,,error,109,2024-08-16
+Jhansi,Uttar Pradesh,,error,error,,error,,error,2024-11-09
+Jhansi,Uttar Pradesh,,,,error,,5.71,,2024-10-23
+Jhansi,Uttar Pradesh,error,error,,,5.08,87.44,,2024-04-07
+Jhansi,Uttar Pradesh,error,246.79,error,11.89,error,error,,2024-08-11
+Jhansi,Uttar Pradesh,,198.81,error,75.49,,error,354,2024-07-15
+Jhansi,Uttar Pradesh,error,72.53,,error,,29.62,466,2024-04-13
+Ulhasnagar,Maharashtra,error,56.77,17.18,,error,error,,2024-03-26
+Ulhasnagar,Maharashtra,209.77,,,error,,error,error,2024-12-20
+Ulhasnagar,Maharashtra,error,130.88,88.12,,5.4,45.28,error,2024-10-07
+Ulhasnagar,Maharashtra,,error,118.88,error,,error,,2024-09-22
+Ulhasnagar,Maharashtra,263.02,error,error,,3.87,error,400,2024-02-21
+Ulhasnagar,Maharashtra,,error,error,error,0.33,error,error,2024-06-16
+Ulhasnagar,Maharashtra,,error,,11.54,,,94,2024-04-22
+Ulhasnagar,Maharashtra,error,327.2,90.91,44.0,6.69,65.01,error,2024-05-19
+Ulhasnagar,Maharashtra,194.2,194.83,110.13,error,error,error,error,2024-08-18
+Ulhasnagar,Maharashtra,,error,error,10.54,error,55.6,293,2024-02-09
+Jammu,Jammu and Kashmir,92.94,28.55,error,28.1,,,,2024-03-04
+Jammu,Jammu and Kashmir,,error,error,48.82,7.04,87.63,300,2024-08-11
+Jammu,Jammu and Kashmir,error,,,58.6,6.63,103.86,error,2024-03-01
+Jammu,Jammu and Kashmir,163.87,,,,error,error,,2024-07-02
+Jammu,Jammu and Kashmir,error,error,111.02,,0.91,117.55,error,2024-03-12
+Jammu,Jammu and Kashmir,error,214.23,9.22,error,,,416,2024-01-26
+Jammu,Jammu and Kashmir,106.26,error,,error,error,112.81,,2024-12-27
+Jammu,Jammu and Kashmir,,210.8,86.06,error,error,error,453,2024-03-25
+Jammu,Jammu and Kashmir,error,379.38,error,error,2.39,75.29,error,2024-09-21
+Jammu,Jammu and Kashmir,,238.6,error,,0.25,20.69,,2024-10-25
+Sangli,Maharashtra,error,317.27,error,error,9.06,error,272,2024-04-21
+Sangli,Maharashtra,289.63,,44.1,44.02,9.64,6.44,67,2024-10-27
+Sangli,Maharashtra,,190.46,,error,1.91,,,2024-10-11
+Sangli,Maharashtra,,,error,5.88,error,error,error,2024-05-14
+Sangli,Maharashtra,83.41,179.89,,,9.19,,491,2024-04-10
+Sangli,Maharashtra,,147.24,error,error,5.16,error,,2024-11-07
+Sangli,Maharashtra,232.99,63.54,error,6.97,error,error,error,2024-09-07
+Sangli,Maharashtra,195.14,181.46,error,65.45,error,,,2024-11-11
+Sangli,Maharashtra,,,,33.45,2.71,,,2024-09-13
+Sangli,Maharashtra,128.66,71.65,102.4,,error,,,2024-06-24
+Belgaum,Karnataka,132.33,122.29,error,,,error,461,2024-07-10
+Belgaum,Karnataka,error,,96.22,,3.9,,324,2024-11-24
+Belgaum,Karnataka,error,,,64.04,error,error,error,2024-10-28
+Belgaum,Karnataka,148.88,error,error,37.25,,,error,2024-11-07
+Belgaum,Karnataka,error,,104.18,error,error,error,260,2024-01-08
+Belgaum,Karnataka,,271.29,95.49,26.18,3.32,76.42,error,2024-10-04
+Belgaum,Karnataka,111.42,132.4,,63.19,error,11.68,error,2024-09-17
+Belgaum,Karnataka,64.17,,,error,3.48,27.69,456,2024-07-06
+Belgaum,Karnataka,249.98,74.0,89.15,,,60.34,,2024-06-05
+Belgaum,Karnataka,error,error,error,29.54,9.35,117.02,,2024-01-24
+Mangalore,Karnataka,146.91,,error,,error,58.54,230,2024-11-07
+Mangalore,Karnataka,166.16,error,62.02,24.65,,,,2024-11-26
+Mangalore,Karnataka,228.96,291.31,,,error,,error,2024-07-10
+Mangalore,Karnataka,252.54,error,error,,error,error,,2024-11-13
+Mangalore,Karnataka,error,,40.67,54.04,,error,479,2024-06-17
+Mangalore,Karnataka,270.87,,63.37,,error,error,error,2024-09-20
+Mangalore,Karnataka,,,,error,6.61,93.28,error,2024-11-19
+Mangalore,Karnataka,,,,38.18,error,56.43,,2024-12-16
+Mangalore,Karnataka,74.95,,error,error,8.34,,,2024-10-24
+Mangalore,Karnataka,error,,,error,error,error,498,2024-07-20
+Ambattur,Tamil Nadu,227.93,147.89,error,error,3.33,error,,2024-01-11
+Ambattur,Tamil Nadu,183.05,,68.05,,,error,,2024-10-23
+Ambattur,Tamil Nadu,error,error,78.33,2.09,error,,,2024-02-21
+Ambattur,Tamil Nadu,146.27,,11.81,error,error,error,,2024-10-17
+Ambattur,Tamil Nadu,,266.37,error,error,,25.36,,2024-03-07
+Ambattur,Tamil Nadu,95.63,error,,,1.39,91.22,417,2024-12-04
+Ambattur,Tamil Nadu,210.1,351.73,,68.37,,,error,2024-01-07
+Ambattur,Tamil Nadu,error,error,,72.34,1.08,error,,2024-02-26
+Ambattur,Tamil Nadu,58.83,288.22,,,error,,error,2024-06-24
+Ambattur,Tamil Nadu,,error,,error,,,426,2024-09-20
+Tirunelveli,Tamil Nadu,error,333.08,error,,0.49,,,2024-07-18
+Tirunelveli,Tamil Nadu,error,error,,,,error,,2024-01-28
+Tirunelveli,Tamil Nadu,31.09,177.72,,11.76,,30.48,error,2024-10-08
+Tirunelveli,Tamil Nadu,,26.86,error,70.63,,,,2024-05-01
+Tirunelveli,Tamil Nadu,error,,error,79.13,,,error,2024-11-28
+Tirunelveli,Tamil Nadu,12.95,388.16,94.42,,4.71,,error,2024-07-21
+Tirunelveli,Tamil Nadu,289.45,error,error,54.91,,,71,2024-08-13
+Tirunelveli,Tamil Nadu,,error,error,7.64,error,,356,2024-05-10
+Tirunelveli,Tamil Nadu,196.27,error,94.56,35.6,7.75,119.31,error,2024-01-06
+Tirunelveli,Tamil Nadu,,111.7,,70.78,6.08,error,78,2024-04-13
+Malegaon,Maharashtra,error,,98.97,error,1.43,47.06,477,2024-04-20
+Malegaon,Maharashtra,68.61,error,error,44.18,0.55,5.38,447,2024-07-17
+Malegaon,Maharashtra,error,,error,error,0.69,,78,2024-07-24
+Malegaon,Maharashtra,error,265.79,54.86,error,0.65,,419,2024-03-25
+Malegaon,Maharashtra,,error,error,65.22,3.09,8.14,error,2024-10-01
+Malegaon,Maharashtra,error,134.35,45.9,,error,error,,2024-07-01
+Malegaon,Maharashtra,39.18,,error,77.32,,error,error,2024-08-09
+Malegaon,Maharashtra,70.64,error,113.11,14.26,1.41,98.62,264,2024-05-09
+Malegaon,Maharashtra,,,127.55,error,,,error,2024-05-04
+Malegaon,Maharashtra,120.9,error,,7.23,1.83,45.72,,2024-04-12
+Gaya,Bihar,error,error,142.8,,error,error,error,2024-01-22
+Gaya,Bihar,error,error,,error,3.9,,,2024-05-19
+Gaya,Bihar,,,31.87,50.21,error,22.77,,2024-05-14
+Gaya,Bihar,158.03,error,,12.54,error,error,error,2024-05-06
+Gaya,Bihar,195.98,error,error,,3.36,error,342,2024-10-06
+Gaya,Bihar,error,,,error,7.61,25.57,error,2024-12-07
+Gaya,Bihar,,,72.81,12.6,5.86,error,,2024-04-07
+Gaya,Bihar,error,,79.97,error,error,,255,2024-01-06
+Gaya,Bihar,,error,,error,,error,error,2024-09-09
+Gaya,Bihar,error,error,52.52,error,2.41,error,418,2024-07-22
+Udaipur,Rajasthan,,,,error,,,error,2024-06-02
+Udaipur,Rajasthan,error,,45.57,19.85,error,error,error,2024-04-10
+Udaipur,Rajasthan,error,error,error,,,error,error,2024-02-05
+Udaipur,Rajasthan,error,error,error,,2.1,29.96,120,2024-09-27
+Udaipur,Rajasthan,error,error,,,error,,428,2024-10-02
+Udaipur,Rajasthan,28.14,error,120.21,15.3,6.97,,error,2024-12-08
+Udaipur,Rajasthan,error,264.21,error,error,3.58,31.69,222,2024-07-01
+Udaipur,Rajasthan,93.36,error,error,,7.1,33.32,230,2024-07-11
+Udaipur,Rajasthan,,284.42,78.41,,,error,58,2024-11-14
+Udaipur,Rajasthan,196.1,146.21,93.24,79.16,error,error,182,2024-06-04
+Karimnagar,Telangana,,error,8.75,,error,,,2024-08-15
+Karimnagar,Telangana,,152.21,error,error,6.3,100.5,,2024-12-08
+Karimnagar,Telangana,,22.66,error,29.52,6.48,86.04,487,2024-10-19
+Karimnagar,Telangana,,,error,4.25,error,115.95,error,2024-08-05
+Karimnagar,Telangana,,error,26.45,error,error,,error,2024-02-27
+Karimnagar,Telangana,253.54,,,,0.49,,219,2024-02-07
+Karimnagar,Telangana,,error,,38.85,,5.01,,2024-09-08
+Karimnagar,Telangana,,error,error,,error,error,211,2024-09-26
+Karimnagar,Telangana,293.99,error,39.59,60.93,error,,,2024-07-24
+Karimnagar,Telangana,24.93,error,76.92,error,error,105.05,error,2024-08-24
+Jalgaon,Maharashtra,,error,9.9,5.98,,86.56,error,2024-07-22
+Jalgaon,Maharashtra,error,,,40.61,,72.24,,2024-05-23
+Jalgaon,Maharashtra,234.53,error,69.66,48.24,,,165,2024-11-10
+Jalgaon,Maharashtra,error,error,error,7.57,,19.11,,2024-08-01
+Jalgaon,Maharashtra,error,,error,,,81.1,error,2024-08-13
+Jalgaon,Maharashtra,error,102.15,,48.06,error,33.98,196,2024-06-10
+Jalgaon,Maharashtra,error,372.5,,error,error,103.9,473,2024-08-20
+Jalgaon,Maharashtra,158.54,,117.96,,0.14,error,264,2024-01-27
+Jalgaon,Maharashtra,error,,error,,7.19,error,,2024-10-04
+Jalgaon,Maharashtra,,,error,error,5.11,17.68,error,2024-05-23
+Bokaro,Jharkhand,error,51.25,,,4.71,111.29,error,2024-11-14
+Bokaro,Jharkhand,30.27,184.43,,30.19,error,,error,2024-04-15
+Bokaro,Jharkhand,,,117.4,error,error,,,2024-09-21
+Bokaro,Jharkhand,53.12,error,error,error,,,,2024-09-23
+Bokaro,Jharkhand,error,109.44,error,,,error,error,2024-05-20
+Bokaro,Jharkhand,34.18,39.72,error,79.72,,,222,2024-04-16
+Bokaro,Jharkhand,162.79,129.7,error,,,error,,2024-09-07
+Bokaro,Jharkhand,,246.53,,25.48,error,,,2024-07-11
+Bokaro,Jharkhand,error,,66.2,,,19.65,,2024-09-24
+Bokaro,Jharkhand,,,68.41,,,error,136,2024-06-12
+Nellore,Andhra Pradesh,155.96,error,error,71.32,error,error,error,2024-10-18
+Nellore,Andhra Pradesh,103.96,error,,57.66,error,,,2024-01-15
+Nellore,Andhra Pradesh,,211.28,error,54.66,,error,error,2024-08-17
+Nellore,Andhra Pradesh,,error,,67.83,6.1,,error,2024-03-21
+Nellore,Andhra Pradesh,,error,80.39,,,error,444,2024-01-08
+Nellore,Andhra Pradesh,,342.83,error,65.7,8.17,112.1,,2024-08-21
+Nellore,Andhra Pradesh,48.05,326.7,,23.07,,error,,2024-10-15
+Nellore,Andhra Pradesh,106.64,225.47,63.4,error,,error,,2024-02-22
+Nellore,Andhra Pradesh,,error,error,,4.06,119.04,,2024-11-04
+Nellore,Andhra Pradesh,,,53.38,error,error,,,2024-03-23
+Rourkela,Odisha,,error,error,,error,error,error,2024-02-02
+Rourkela,Odisha,error,98.46,90.64,,error,error,,2024-09-05
+Rourkela,Odisha,error,,,,,error,error,2024-12-19
+Rourkela,Odisha,,288.3,8.91,,5.6,,,2024-03-06
+Rourkela,Odisha,,247.65,126.06,,error,17.74,error,2024-03-27
+Rourkela,Odisha,265.69,146.51,error,,error,49.33,error,2024-08-05
+Rourkela,Odisha,194.13,,92.6,,8.45,43.64,,2024-12-28
+Rourkela,Odisha,error,error,error,79.61,error,79.57,error,2024-03-19
+Rourkela,Odisha,166.02,error,,error,9.38,error,error,2024-12-12
+Rourkela,Odisha,error,,error,error,4.76,,115,2024-12-08
+Rajahmundry,Andhra Pradesh,214.09,166.2,error,,1.49,40.4,438,2024-02-02
+Rajahmundry,Andhra Pradesh,,,error,8.88,6.14,74.26,error,2024-10-13
+Rajahmundry,Andhra Pradesh,105.64,,error,error,4.78,,error,2024-11-12
+Rajahmundry,Andhra Pradesh,error,error,,52.03,2.74,119.48,,2024-05-27
+Rajahmundry,Andhra Pradesh,error,,error,error,,error,445,2024-04-10
+Rajahmundry,Andhra Pradesh,error,error,136.87,,error,,128,2024-10-02
+Rajahmundry,Andhra Pradesh,,error,error,error,,,292,2024-02-24
+Rajahmundry,Andhra Pradesh,188.89,62.97,,error,6.39,,,2024-02-06
+Rajahmundry,Andhra Pradesh,,,,error,,error,,2024-10-27
+Rajahmundry,Andhra Pradesh,289.04,error,error,error,error,21.28,,2024-07-28
+Bardhaman,West Bengal,13.17,66.08,error,,,110.94,149,2024-02-21
+Bardhaman,West Bengal,,,,,error,15.2,192,2024-09-19
+Bardhaman,West Bengal,,error,84.59,31.49,,error,error,2024-01-08
+Bardhaman,West Bengal,,,,22.83,,,,2024-11-19
+Bardhaman,West Bengal,error,203.51,44.99,error,,,,2024-08-13
+Bardhaman,West Bengal,250.27,,122.76,75.01,8.58,,158,2024-02-12
+Bardhaman,West Bengal,,error,error,,,error,error,2024-03-17
+Bardhaman,West Bengal,,314.92,error,,,,error,2024-05-04
+Bardhaman,West Bengal,,347.2,error,,,error,,2024-07-28
+Bardhaman,West Bengal,,,75.16,47.49,,63.47,60,2024-09-27
+Bijapur,Karnataka,,error,,error,4.18,error,,2024-03-24
+Bijapur,Karnataka,,176.5,,36.25,,error,,2024-04-17
+Bijapur,Karnataka,error,,,error,6.0,45.51,,2024-10-25
+Bijapur,Karnataka,,127.2,92.25,63.95,4.01,,,2024-02-19
+Bijapur,Karnataka,error,31.23,error,error,9.8,error,,2024-06-18
+Bijapur,Karnataka,,error,,error,2.57,error,405,2024-02-19
+Bijapur,Karnataka,,52.33,,,error,71.75,,2024-06-21
+Bijapur,Karnataka,,error,82.03,error,error,18.95,444,2024-09-08
+Bijapur,Karnataka,10.99,317.84,,,3.34,53.15,error,2024-04-19
+Bijapur,Karnataka,76.93,252.25,error,,error,88.11,,2024-03-19
+Rampur,Uttar Pradesh,156.12,,error,10.44,9.32,error,,2024-05-21
+Rampur,Uttar Pradesh,58.01,312.3,error,error,error,25.25,,2024-04-09
+Rampur,Uttar Pradesh,error,error,88.26,40.89,,114.83,83,2024-08-24
+Rampur,Uttar Pradesh,,,error,,error,error,,2024-11-12
+Rampur,Uttar Pradesh,error,89.64,76.11,38.9,,,error,2024-04-06
+Rampur,Uttar Pradesh,265.42,,,8.78,,48.86,331,2024-11-16
+Rampur,Uttar Pradesh,error,193.32,error,error,7.89,error,,2024-10-15
+Rampur,Uttar Pradesh,29.04,,113.6,,error,80.75,,2024-03-08
+Rampur,Uttar Pradesh,248.09,error,,20.19,error,57.76,394,2024-04-22
+Rampur,Uttar Pradesh,79.41,175.95,125.65,21.06,0.91,,,2024-06-05
